@@ -48,6 +48,7 @@ I build **apps and tools** for the web, Android and desktop. I like to experimen
 **Focus areas**
 - 🌐 Web apps and PWAs (e.g. [Worms Online](https://github.com/lucatarik/wormsmm), [MediaVault](https://github.com/lucatarik/MediaVault))
 - 📱 Android apps and widgets (e.g. [WhatsApp sticker sender](https://github.com/lucatarik/WhatsappStickerSender))
+- 🥽 VR: mixed-reality apps for Meta Quest 3 (WebXR, Gemini Live API) and Morrowind in VR with OpenMW
 - 🖥️ Linux desktop: Rust apps with egui, GTK/Qt patches, X11 screensavers (e.g. [proxy-finder-rust](https://github.com/lucatarik/proxy-finder-rust))
 - 🎮 Game dev with Godot and the browser (e.g. [flipper-spinner](https://github.com/lucatarik/flipper-spinner), [Roguelike-Pixel-Art](https://github.com/lucatarik/Roguelike-Pixel-Art))
 - 🤖 Local AI: LLMs on llama.cpp with Vulkan, agents and skills for Claude Code
@@ -71,6 +72,29 @@ I build **apps and tools** for the web, Android and desktop. I like to experimen
 | [Worms Online](https://github.com/lucatarik/wormsmm) | Multiplayer artillery PWA | JavaScript |
 | [WhatsappStickerSender](https://github.com/lucatarik/WhatsappStickerSender) | Send custom stickers | HTML |
 | [flipper-spinner](https://github.com/lucatarik/flipper-spinner) | Arcade game in Godot | GDScript |
+
+## 🥽 VR & Meta Quest 3
+
+- **Quest Repair Assistant**: DIY and repair assistant for Meta Quest 3 with mixed-reality UI, powered by the Gemini Live API
+- **OpenMW VR (0.51-vr)** on Quest 3: playing Morrowind in VR, with a custom data setup for the launcher
+
+## 🖼️ XScreensaver hacks
+
+Homemade screensavers for XScreenSaver, all in C: plain Xlib, or OpenGL where noted.
+
+| Hack | What it does |
+|---|---|
+| Beyblade | Spinning-top battle arena (Xlib) |
+| Spraytag | Spray-can graffiti (Xlib) |
+| Helm's Deep | Fortress battle scene |
+| Hogwarts Broom Flight | First-person broom flight over a procedural castle (OpenGL) |
+| Jet | Fighter-jet barrel rolls through generated sky and clouds, no external assets (OpenGL) |
+| Mario 1-1 | An AI speedruns World 1-1 in a pseudo-3D recreation |
+| Meteor | Cinematic camera following a meteor as it descends |
+| Monkeybonk | A coconut drops and bonks a monkey on the head |
+| Pacsaver | Pac-Man-style screensaver |
+| WebSwing | Endless web-slinging through a procedural city |
+| Seasons Tree | One tree cycling through all four seasons |
 
 ## 📊 Stats
 
